@@ -4,7 +4,7 @@ I am a computer science student at CSUF and I expect to graduate in 2027.
 
 ## Favorite CPSC 120 Labs
 * Lab 5, part 1
-* 
+  
   I enjoyed working on lab 5 part 1 because it reminded me of how a calculator app works except this is for the area of a rectangle. I learned the importance of the usage of input and output more depth because of this code. I like how it is similar to a calculator app because it uses math logic. 
 
 * Lab 6, part 2
